@@ -1,4 +1,4 @@
-package Git;
+package main.java.Git;
 
 /**
  * @author shkstart
@@ -16,5 +16,6 @@ public class gitTest {
         System.out.println("push test!");
         System.out.println("pull test!");
         System.out.println("pull test!");
+        System.out.println("gitee test!");
     }
 }
